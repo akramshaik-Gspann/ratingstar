@@ -1,0 +1,14 @@
+input[type="radio"] {
+  display: none;
+}
+
+.star-rating {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.star:hover {
+  cursor: pointer;
+}
+/*# sourceMappingURL=starRating.css.map */
